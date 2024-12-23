@@ -18,4 +18,4 @@ soldering machine and wire and etc.
 
 you can reach to the video uploaded to youtube about how connections are made.
 
-youtube video link: 
+youtube video link: https://www.youtube.com/watch?v=lPM2SrTrhjk
