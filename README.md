@@ -4,7 +4,6 @@ A DIY RF controller project using Arduino Nano and nRF24L01 module for radio con
 
 ![Arduino](https://img.shields.io/badge/Arduino-Nano-00979D)
 ![RF](https://img.shields.io/badge/RF-nRF24L01-red)
-![Status](https://img.shields.io/badge/status-in%20development-yellow)
 
 ## 📝 Overview
 
